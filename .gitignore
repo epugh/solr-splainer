@@ -12,4 +12,5 @@ deploy.sh
 *.swp
 
 docker-compose.override.yml
-splainer.zip
+solr-splainer-plugin/target
+solr-splainer-ui/target
