@@ -1,8 +1,8 @@
 ## The Splainer!
 
-This is a version of [Splainer](http://github.com/o19s/splainer) that allows running via Solr Admin UI.
+This is a version of [Splainer](http://github.com/o19s/splainer) that allows running via Solr Admin UI as a Solr Plugin!.
 
-<img width="395" alt="image" src="https://github.com/softwaredoug/solr-splainer/assets/629060/5aac89f7-d37a-48c9-9416-533fe22ec88b">
+<img width="395" alt="image" src="https://github.com/epugh/solr-splainer/assets/629060/5aac89f7-d37a-48c9-9416-533fe22ec88b">
 
 ## Building and installation
 
