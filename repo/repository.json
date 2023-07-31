@@ -5,7 +5,7 @@
       "versions": [
         {
           "version": "0.1.0",
-          "date": "2023-7-31",
+          "date": "2023-07-31",
           "artifacts": [
             {
               "url": "https://github.com/epugh/solr-splainer/releases/download/0.1.1/solr-splainer-plugin-0.1.0.jar",
