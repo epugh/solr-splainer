@@ -1,0 +1,18 @@
+[
+    {
+      "name": "solr-splainer",
+      "description": "Splainer.io for your Solr!.",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "date": "2023-7-31",
+          "artifacts": [
+            {
+              "url": "https://github.com/epugh/splainer-solr/releases/download/v0.1.0/solr-splainer-0.1.0.jar",
+              "sig": "cRZHfyWr6fQyxXnNQGjnuAF8fJCLzgDXh/dWrUuacgMGHSYx2AJxxx747VFSmTbsUebbKURxykKGgy2+bH7aMA=="
+            }
+          ]
+        }
+      ]
+    }
+]
