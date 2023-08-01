@@ -22,6 +22,16 @@
             "sig": "LzHOmXLgUTVdpjqE4rHrvz6tYpjnZkQHPO87EfC7EVbmFFlbUfgDybfyXwZGvmTo2+ry4w0ljzg+M2XCb7+OIQ=="
           }
         ]
+      },
+      {
+        "version": "0.1.2",
+        "date": "2023-08-01",
+        "artifacts": [
+          {
+            "url": "solr-splainer-plugin-0.1.2.jar",
+            "sig": "qygvtj3A4og5+T++MNw0jLitMtgipAxEfBfiH9lIYP0PYb40ErEWhcd5O32ELZvS08t9FBCwTUaQiUdOvKYvAQ=="
+          }
+        ]
       }
     ]
   }
