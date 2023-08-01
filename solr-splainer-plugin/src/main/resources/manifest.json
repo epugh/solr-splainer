@@ -10,7 +10,7 @@
         "payload": {
           "add": {
             "name": "${package-name}:${plugin-name}",
-            "class": "splainer:io.github.epugh.SplainerHandler",
+            "class": "solr-splainer:io.github.epugh.SplainerHandler",
             "version": "${package-version}",
             "path-prefix": "${SPLAINER-PATH-PREFIX}"
           }
