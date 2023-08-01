@@ -56,11 +56,13 @@ public class SplainerHandler implements ResourceLoaderAware {
 
   @Override
   public void inform(ResourceLoader loader) {
+    System.out.println("inform");
     this.loader = loader;
   }
 
   @Command
   public void call(SolrQueryRequest req, SolrQueryResponse rsp) throws IOException {
+    System.out.println("Splainer: call" + req);
     String path = req.getHttpSolrCall().getPath();
     String filepath = resolveFilePath(path);
 
@@ -121,7 +123,8 @@ public class SplainerHandler implements ResourceLoaderAware {
   }
 
   private String resolveFilePath(String path) {
-    // Path can be: /____v2/yasa/index.html
+    System.out.println("Splainer: resolveFilePath" + path);
+    // Path can be: /____v2/splainer/index.html
     if (path.split("/").length < 3) {
       throw new SolrException(ErrorCode.BAD_REQUEST, "Can't parse path: " + path);
     }
