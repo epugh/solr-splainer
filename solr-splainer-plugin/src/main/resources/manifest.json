@@ -17,7 +17,7 @@
         }
       },
       "verify-command": {
-        "path": "/api/cluster/zk/data/clusterprops.json",
+        "path": "/api/cluster/plugin",
         "method": "GET",
         "condition": "$['plugin'].['${package-name}:${plugin-name}'].['version']",
         "expected": "${package-version}"

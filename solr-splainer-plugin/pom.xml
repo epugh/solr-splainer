@@ -70,7 +70,32 @@
             </resource>
           </resources>
         </configuration>
-      </plugin>    
+      </plugin>
+
+      <plugin>
+        <groupId>org.codehaus.mojo</groupId>
+        <artifactId>exec-maven-plugin</artifactId>
+        <executions>
+            <execution>
+                <configuration>
+                    <executable>python</executable>
+                    <workingDirectory>.</workingDirectory>
+                    <arguments>
+                        <argument>release.py</argument>
+                        <argument>${artifactId}</argument>
+                        <argument>${version}</argument>
+                    </arguments>    
+
+                </configuration>
+                <id>python-build</id>
+                <phase>package</phase>
+                <goals>
+                    <goal>exec</goal>
+                </goals>
+            </execution>
+        </executions>
+      </plugin>
+
     </plugins>
   </build>
 </project>
