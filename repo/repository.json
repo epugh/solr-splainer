@@ -1,18 +1,28 @@
 [
-    {
-      "name": "solr-splainer",
-      "description": "Splainer.io for your Solr!.",
-      "versions": [
-        {
-          "version": "0.1.0",
-          "date": "2023-07-31",
-          "artifacts": [
-            {
-              "url": "https://github.com/epugh/solr-splainer/releases/download/0.1.1/solr-splainer-plugin-0.1.0.jar",
-              "sig": "cRZHfyWr6fQyxXnNQGjnuAF8fJCLzgDXh/dWrUuacgMGHSYx2AJxxx747VFSmTbsUebbKURxykKGgy2+bH7aMA=="
-            }
-          ]
-        }
-      ]
-    }
+  {
+    "name": "solr-splainer",
+    "description": "Splainer.io for your Solr!.",
+    "versions": [
+      {
+        "version": "0.1.0",
+        "date": "2023-07-31",
+        "artifacts": [
+          {
+            "url": "https://github.com/epugh/solr-splainer/releases/download/0.1.1/solr-splainer-plugin-0.1.0.jar",
+            "sig": "cRZHfyWr6fQyxXnNQGjnuAF8fJCLzgDXh/dWrUuacgMGHSYx2AJxxx747VFSmTbsUebbKURxykKGgy2+bH7aMA=="
+          }
+        ]
+      },
+      {
+        "version": "0.1.1",
+        "date": "2023-08-01",
+        "artifacts": [
+          {
+            "url": "solr-splainer-plugin-0.1.1.jar",
+            "sig": "LzHOmXLgUTVdpjqE4rHrvz6tYpjnZkQHPO87EfC7EVbmFFlbUfgDybfyXwZGvmTo2+ry4w0ljzg+M2XCb7+OIQ=="
+          }
+        ]
+      }
+    ]
+  }
 ]

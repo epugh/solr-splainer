@@ -23,7 +23,7 @@
   <parent>
     <artifactId>solr-splainer-parent</artifactId>
     <groupId>io.github.epugh</groupId>
-    <version>0.1.0</version>
+    <version>0.1.1</version>
   </parent>
   <modelVersion>4.0.0</modelVersion>
 
@@ -70,7 +70,7 @@
             </resource>
           </resources>
         </configuration>
-      </plugin>
+      </plugin>    
     </plugins>
   </build>
 </project>
