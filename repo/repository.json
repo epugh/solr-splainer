@@ -28,7 +28,7 @@
         "date": "2023-08-01",
         "artifacts": [
           {
-            "url": "solr-splainer-plugin-0.1.2.jar",
+            "url": "https://github.com/epugh/solr-splainer/releases/download/v0.1.2/solr-splainer-plugin-0.1.2.jar",
             "sig": "qygvtj3A4og5+T++MNw0jLitMtgipAxEfBfiH9lIYP0PYb40ErEWhcd5O32ELZvS08t9FBCwTUaQiUdOvKYvAQ=="
           }
         ]
