@@ -1,11 +1,18 @@
 [
-    {
-      "name": "solr-splainer",
-      "description": "Splainer for Solr",
-      "versions": [
-        
-      ]
-    }
-  ]
-  
-  
+  {
+    "name": "solr-splainer",
+    "description": "Splainer for Solr",
+    "versions": [
+      {
+        "version": "0.1.3",
+        "date": "2023-08-01",
+        "artifacts": [
+          {
+            "url": "solr-splainer-plugin-0.1.3.jar",
+            "sig": "CRsVV0+hp0twqZlAlVhXWe8iJI+h62MN7Ns2x3BtOz8RL263mkmyk3xeJgdy6oR/6M6ysgYGuiffb2VL6GEAJA=="
+          }
+        ]
+      }
+    ]
+  }
+]
