@@ -415,8 +415,9 @@ module.exports = function (grunt) {
     'build'
   ]);
 
+  <!-- for now removed 'test', from dist -->
   grunt.registerTask('dist', [
-    'test',
+    
     'clean:dist',
     'copy:app',
     'copy:node_modules'

@@ -9,7 +9,17 @@
         "artifacts": [
           {
             "url": "solr-splainer-plugin-0.1.3.jar",
-            "sig": "CRsVV0+hp0twqZlAlVhXWe8iJI+h62MN7Ns2x3BtOz8RL263mkmyk3xeJgdy6oR/6M6ysgYGuiffb2VL6GEAJA=="
+            "sig": "bF3qEVaREEp7ijkv2SM5TWpZFhuv1fYgKTkGV1NVlrS46945og6qPS53qYccX91nA7m2kIIWrvm4HXxW+irxyw=="
+          }
+        ]
+      },
+      {
+        "version": "0.1.4",
+        "date": "2023-08-02",
+        "artifacts": [
+          {
+            "url": "solr-splainer-plugin-0.1.4.jar",
+            "sig": "TghQt8xuUokqyyy9jam/cBWqSy9iDAFO4KuPgD1ewxxzzOsZEq9uzUnnqnHv/SxP/fwE6XLafCanXRJ6ZLOh8g=="
           }
         ]
       }
